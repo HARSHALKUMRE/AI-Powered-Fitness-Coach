@@ -1,5 +1,7 @@
 streamlit
 langchain-groq
+langchain
+langchian-core
 python-dotenv
 fpdf
 protobuf
