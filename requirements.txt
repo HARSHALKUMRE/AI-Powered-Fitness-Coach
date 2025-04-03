@@ -1,7 +1,9 @@
 streamlit
-langchain-groq
-langchain
-langchian-core
+langchain-groqlangchain==0.3.20
+langchain-core==0.3.45
+langchain-openai==0.3.9
+langchain-text-splitters==0.3.6
+langsmith==0.3.15
 python-dotenv
 fpdf
 protobuf
